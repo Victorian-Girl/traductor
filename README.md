@@ -7,4 +7,4 @@ Sìmple traductor. Small one you can put anywhere in your screen when you need i
 
 - You can add morê language in it.
 - Just add it to the line <choices>
-- Also you can change the ""open choices"" language at the line <lan1.set> and <lan2.set>
+- Also, you can change the ""open choices"" language at the line <lan1.set> and <lan2.set>
