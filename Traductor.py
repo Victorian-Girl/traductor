@@ -26,9 +26,9 @@ app.title("Translator")
 lan1 = StringVar(app)
 lan2 = StringVar(app)
 
-#choices to show in dropdown menu
+#choices to show in dropdown menu. Can add more or erase some languages
 choices = {'English', 'Hindi', 'Gujarati', 'Spanish', 'German', 'French', 'Portuguese', 'Chinese', 'Japanese'}
-#default selection for dropdownlists
+#default selection for dropdownlists, can be changed
 lan1.set('English')
 lan2.set('French')
 
