@@ -1,7 +1,7 @@
 # traductor
 simple traductor
 
-Another small programme î have made in my fist year of programming.
+Another small programme i have made in my fist year of programming.
 
 Sìmple traductor. Small one you can put anywhere in your screen when you need it!
 
